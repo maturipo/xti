@@ -9,6 +9,8 @@ public class Arquivo2 {
 		 * 
 		 * Implementar 2*/
 
+		//Implementar 3
+		
 	}
 
 }
