@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class Arquivo3 {
+public class Arquivo21 {
 
 	//A partir do Java 7 faz assim:
 	public static void main(String[] args) {
